@@ -1,6 +1,6 @@
 # Cintia Millan
 
-AI/LLM engineer based in Lisbon, currently at Web Summit. Interested in agent architectures, tool use, and the applied-RL side of getting models to act reliably, not just talk well.
+AI/LLM engineer based between Lisbon and Sao Paulo, currently at Web Summit. Interested in agent architectures, tool use, and the applied-RL side of getting models to act reliably, not just talk well.
 
 ## A few things I've built
 
