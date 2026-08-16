@@ -1,6 +1,6 @@
 # Cintia Millan
 
-Growth engineer based between Lisbon and São Paulo, currently at Web Summit, where I build and maintain the data infrastructure connecting our growth stack — Salesforce, Monday.com, Metabase — into a Presto/Trino-backed warehouse. Lately focused on where LLM agents fit into that kind of infrastructure: not as a novelty layer, but as another system that has to integrate cleanly, fail predictably, and be debuggable when something breaks.
+Growth engineer based between Lisbon and São Paulo, currently at Web Summit, where I build and maintain the data infrastructure connecting our growth stack — Salesforce, Monday.com, Metabase — into a Presto/Trino-backed warehouse. Lately focused on where LLM agents fit into that kind of infrastructure: not as a novelty layer, but as another system that has to integrate cleanly, fail predictably, and be debuggable when something breaks. Early into a PhD on multi-agent systems, evolutionary game theory, and network science on the side — the cooperation-dynamics and validator-game projects below are part of that line of work in progress, not one-off simulations.
 
 ## Experience
 
