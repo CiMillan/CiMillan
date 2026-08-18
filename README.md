@@ -11,7 +11,7 @@ At Web Summit, I drive how LLM agents get integrated into our infrastructure —
 
 ## Also building
 
-- **[summit_agent](https://github.com/CiMillan/summit_agent)** — a Ruby framework for tool-using LLM agents with a real local-LLM backend (Ollama), not a mock.
+- **[summit-agent](https://github.com/CiMillan/summit-agent)** — a Ruby framework for tool-using LLM agents with a real local-LLM backend (Ollama), not a mock.
 - **[volatility-forecast](https://github.com/CiMillan/volatility-forecast)** — volatility forecasting comparing GARCH, XGBoost, and LSTM with walk-forward validation.
 
 ---
