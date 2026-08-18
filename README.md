@@ -1,6 +1,6 @@
 # Cintia Millan
 
-PhD researcher at NOVA IMS (Lisbon), working on multi-agent systems, evolutionary game theory, and the fragility of cooperation in hybrid human–AI populations — when the mechanisms that sustain cooperation (reputation, punishment, network structure) hold up as agents shift from human-supervised to autonomous, reward-driven adaptation, and when they quietly break. At Web Summit, I lead how LLM agents get integrated into our infrastructure — not as a novelty layer bolted on top, but as systems that have to integrate cleanly, fail predictably, and be trusted the same way any other production system is.
+PhD researcher at NOVA IMS (Lisbon), working on multi-agent systems, evolutionary game theory, and the fragility of cooperation in hybrid human–AI populations — when the mechanisms that sustain cooperation (reputation, punishment, network structure) hold up as agents shift from human-supervised to autonomous, reward-driven adaptation, and when they quietly break. At Web Summit, I drive how LLM agents get integrated into our infrastructure — not as a novelty layer bolted on top, but as systems that have to integrate cleanly, fail predictably, and be trusted the same way any other production system is.
 
 ## Research
 
