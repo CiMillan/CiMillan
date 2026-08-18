@@ -4,7 +4,7 @@ PhD researcher at NOVA IMS (Lisbon), working on multi-agent systems, evolutionar
 
 ## Research
 
-- **[multi-agent-system-RL](https://github.com/CiMillan/multi-agent-system-RL)** — agent-based simulation replicating a *Scientific Reports* paper (Tang, Wang & Xing, 2025) on the coexistence of imitation learning and reinforcement learning in cooperation evolution. Checked against the paper's reported results and fixed three bugs in my own implementation along the way — well-mixed populations now match closely, square-lattice mostly matches with one open discrepancy documented in the README.
+- **[multi-agent-system-RL](https://github.com/CiMillan/multi-agent-system-RL)** — agent-based simulation replicating a *Scientific Reports* paper (Tang, Wang & Xing, 2025) on the coexistence of imitation learning and reinforcement learning in cooperation evolution, now the validated engine I'm building on top of for a diagnostic tool on cooperation fragility in multi-agent AI systems. Before building anything on it, I checked it against the paper's reported results and fixed three bugs in my own implementation — well-mixed populations match closely, square-lattice mostly matches with one open discrepancy documented in the README.
 - **[pos-validator-game](https://github.com/CiMillan/pos-validator-game)** — game-theoretic model of Proof-of-Stake validator concentration: risk-adjusted equilibrium analysis with Monte Carlo simulation, calibrated against Ethereum and Cosmos.
 
 ## Also building
