@@ -2,7 +2,6 @@
 
 PhD researcher at NOVA IMS (Lisbon), studying multi-agent systems and evolutionary game theory: when the mechanisms that sustain cooperation (reputation, punishment, network structure) hold up as AI agents shift from human-supervised to autonomous, reward-driven adaptation, and when they quietly break.
 
-At Web Summit, I drive how LLM agents get integrated into our infrastructure, treated as production systems that have to integrate cleanly and fail predictably, not a novelty layer.
 
 ## Research
 
